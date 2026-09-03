@@ -6,7 +6,7 @@ A production-style React/Vite frontend and Node/Express backend foundation based
 https://project-veloop-rewards-giveaways-m3.vercel.app/
 
 ✈️ GitHub Repository:
-https://github.com/Hansa-prajapat/Project---Veloop---Rewards---Giveaways/edit/main/README.md
+https://github.com/Hansa-prajapat/Project---Veloop---Rewards---Giveaways
 
 
 
